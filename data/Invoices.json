@@ -1,0 +1,114 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef1"
+            },
+            "Account__c": "@AccountRef1",
+            "Amount__c": 452.25,
+            "InvoiceDate__c": "2021-10-08",
+            "Paid__c" : false,
+            "Status__c" : "Draft"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef2"
+            },
+            "Account__c": "@AccountRef2",
+            "Amount__c": 452.25,
+            "InvoiceDate__c": "2021-10-08",
+            "Paid__c" : false,
+            "Status__c" : "Draft"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef3"
+            },
+            "Account__c": "@AccountRef3",
+            "Amount__c": 452.25,
+            "InvoiceDate__c": "2021-10-08",
+            "Paid__c" : false,
+            "Status__c" : "Draft"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef4"
+            },
+            "Account__c": "@AccountRef4",
+            "Amount__c": 452.25,
+            "InvoiceDate__c": "2021-10-08",
+            "Paid__c" : true,
+            "Status__c" : "Draft"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef5"
+            },
+            "Account__c": "@AccountRef5",
+            "Amount__c": 452.25,
+            "InvoiceDate__c": "2021-10-08",
+            "Paid__c" : false,
+            "Status__c" : "Draft"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef6"
+            },
+            "Account__c": "@AccountRef6",
+            "Amount__c": 42.225,
+            "InvoiceDate__c": "2021-10-08",
+            "Paid__c" : true,
+            "Status__c" : "Activated"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef7"
+            },
+            "Account__c": "@AccountRef7",
+            "Amount__c": 52.25,
+            "InvoiceDate__c": "2021-10-08",
+            "Paid__c" : false,
+            "Status__c" : "Draft"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef8"
+            },
+            "Account__c": "@AccountRef8",
+            "Amount__c": 452.25,
+            "InvoiceDate__c": "2021-11-08",
+            "Paid__c" : false,
+            "Status__c" : "Activated"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef9"
+            },
+            "Account__c": "@AccountRef9",
+            "Amount__c": 5642.25,
+            "InvoiceDate__c": "2021-10-08",
+            "Paid__c" : false,
+            "Status__c" : "Voided"
+        },
+        {
+            "attributes": {
+                "type": "Invoice__c",
+                "referenceId": "InvoiceRef10"
+            },
+            "Account__c": "@AccountRef10",
+            "Amount__c": 52.25,
+            "InvoiceDate__c": "2021-10-09",
+            "Paid__c" : false,
+            "Status__c" : "Activated"
+        }
+    ]
+}

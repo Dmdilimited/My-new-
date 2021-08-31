@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef1"
+            },
+            "Subject": "This is test Case from SFDX CLI - 1",
+            "Description": "This is test Case from SFDX CLI",
+            "Status": "New",
+            "ContactId": "@ContactRef1",
+            "Priority": "High",
+            "Origin" : "Email"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef2"
+            },
+            "Subject": "This is test Case from SFDX CLI - 2",
+            "Description": "This is test Case from SFDX CLI",
+            "Status": "New",
+            "ContactId": "@ContactRef2",
+            "Priority": "High",
+            "Origin" : "Email"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef3"
+            },
+            "Subject": "This is test Case from SFDX CLI - 3",
+            "Description": "This is test Case from SFDX CLI",
+            "Status": "New",
+            "ContactId": "@ContactRef3",
+            "Priority": "High",
+            "Origin" : "Email"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef4"
+            },
+            "Subject": "This is test Case from SFDX CLI - 4",
+            "Description": "This is test Case from SFDX CLI",
+            "Status": "New",
+            "ContactId": "@ContactRef4",
+            "Priority": "High",
+            "Origin" : "Email"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef5"
+            },
+            "Subject": "This is test Case from SFDX CLI - 5",
+            "Description": "This is test Case from SFDX CLI",
+            "Status": "New",
+            "ContactId": "@ContactRef5",
+            "Priority": "High",
+            "Origin" : "Email"
+        }
+    ]
+}

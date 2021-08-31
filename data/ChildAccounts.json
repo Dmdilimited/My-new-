@@ -1,0 +1,104 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef1"
+            },
+            "Name": "Alpha Dynamics - Child",
+            "Type": "Technology Partner",
+            "Phone": "3362227000",
+            "ParentId" : "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef2"
+            },
+            "Name": "Madison Investments - Child",
+            "Type": "Customer - Direct",
+            "Phone": "7227003362",
+            "ParentId" : "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef3"
+            },
+            "Name": "Burlington Textiles - Child",
+            "Type": "Customer - Direct",
+            "Phone": "6179658855",
+            "ParentId" : "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef4"
+            },
+            "Name": "GenePoint - Child",
+            "Type": "Customer - Direct",
+            "Phone": "7819662255",
+            "ParentId" : "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef5"
+            },
+            "Name": "OpenFloor Furniture - Child",
+            "Type": "Customer - Direct",
+            "Phone": "9782554185",
+            "ParentId" : "@AccountRef5"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef6"
+            },
+            "Name": "Express Logistics - Child",
+            "Type": "Customer - Direct",
+            "Phone": "6175289966",
+            "ParentId" : "@AccountRef6"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef7"
+            },
+            "Name": "Jefferson Management - Child",
+            "Type": "Customer - Direct",
+            "Phone": "6179658877",
+            "ParentId" : "@AccountRef7"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef8"
+            },
+            "Name": "Northern Trail Travel - Child",
+            "Type": "Customer - Direct",
+            "Phone": "9782551474",
+            "ParentId" : "@AccountRef8"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef9"
+            },
+            "Name": "United Productions - Child",
+            "Type": "Customer - Direct",
+            "Phone": "6178524569",
+            "ParentId" : "@AccountRef9"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ChildAccountRef10"
+            },
+            "Name": "Edge Communications - Child",
+            "Type": "Customer - Direct",
+            "Phone": "4158563255",
+            "ParentId" : "@AccountRef10"
+        }
+    ]
+}

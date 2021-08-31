@@ -1,0 +1,32 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": ["Accounts.json"]
+    },
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["ChildAccounts.json"]
+    },
+    {
+        "sobject": "Invoice__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Invoices.json"]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Contacts.json"]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Cases.json"]
+    }
+]
